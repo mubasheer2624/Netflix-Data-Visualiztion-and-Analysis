@@ -14,8 +14,13 @@ Interactive Visualizations: Utilizing Plotly for dynamic, interactive visualizat
 Word Cloud: Creating a word cloud in the shape of the Netflix logo to visualize the most common words in titles.
 ## Technologies Used
 Python: For all data processing and machine learning tasks.
+
 Pandas and NumPy: For data manipulation.
+
 Seaborn and Matplotlib: For static data visualization.
+
 Plotly: For interactive data visualization.
+
 Scikit-learn: For building and evaluating machine learning models.
+
 WordCloud: For generating word clouds.
